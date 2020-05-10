@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa2fbe92-2ff3-4305-a011-2cf5ba29043e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="180" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yd7w4k5zSnYcB1MOisM7Z2t6EN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583143087127" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Groovy JUnit" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/lib/ant/lib/system-rules-1.19.0.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Pachet1" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="groovy.util.GroovyTestCase" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PIT Runner.Lab1">
+    <configuration name="MyClassTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true" show_console_on_std_out="true">
+      <output_file is_save="true" />
+      <module name="Proiect_individual" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Pachet1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Pachet1" />
+      <option name="MAIN_CLASS_NAME" value="Pachet1.MyClassTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab1" type="PIT" factoryName="PIT Runner" REPORT_DIR="$PROJECT_DIR$/report" SOURCE_DIRS="$PROJECT_DIR$/src" TARGET_CLASSES="Pachet1.*" TARGET_TESTS="" otherParams="--outputFormats XML,HTML --targetTests Pachet1.*">
+      <module name="Proiect_individual" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.MyClassTest" />
+      <item itemvalue="PIT Runner.Lab1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MyClassTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa2fbe92-2ff3-4305-a011-2cf5ba29043e" name="Default Changelist" comment="" />
+      <created>1582029532361</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582029532361</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="306" y="42" key="#Auto_Import" timestamp="1588693410213">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="306" y="42" key="#Auto_Import/62.0.1304.768@62.0.1304.768" timestamp="1588693410213" />
+    <state x="550" y="46" key="#Project_Structure" timestamp="1583773299834">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="550" y="46" key="#Project_Structure/62.0.1304.768@62.0.1304.768" timestamp="1583773299834" />
+    <state x="168" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583773417357">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="168" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.1304.768@62.0.1304.768" timestamp="1583773417357" />
+    <state x="154" y="92" width="1120" height="584" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1588693319221">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="154" y="92" width="1120" height="584" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/62.0.1304.768@62.0.1304.768" timestamp="1588693319221" />
+    <state x="888" y="276" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583769168124">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="888" y="276" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/62.0.1304.768@62.0.1304.768" timestamp="1583769168124" />
+    <state x="526" y="42" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1583769164092">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="526" y="42" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/62.0.1304.768@62.0.1304.768" timestamp="1583769164092" />
+    <state x="738" y="142" key="FileChooserDialogImpl" timestamp="1588682550668">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="738" y="142" key="FileChooserDialogImpl/62.0.1304.768@62.0.1304.768" timestamp="1588682550668" />
+    <state width="1261" height="181" key="GridCell.Tab.0.bottom" timestamp="1588878502907">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="181" key="GridCell.Tab.0.bottom/62.0.1304.768@62.0.1304.768" timestamp="1588878502907" />
+    <state width="1261" height="181" key="GridCell.Tab.0.center" timestamp="1588878502907">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="181" key="GridCell.Tab.0.center/62.0.1304.768@62.0.1304.768" timestamp="1588878502907" />
+    <state width="1261" height="181" key="GridCell.Tab.0.left" timestamp="1588878502907">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="181" key="GridCell.Tab.0.left/62.0.1304.768@62.0.1304.768" timestamp="1588878502907" />
+    <state width="1261" height="181" key="GridCell.Tab.0.right" timestamp="1588878502907">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="181" key="GridCell.Tab.0.right/62.0.1304.768@62.0.1304.768" timestamp="1588878502907" />
+    <state x="194" y="0" key="SettingsEditor" timestamp="1588682564523">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="194" y="0" key="SettingsEditor/62.0.1304.768@62.0.1304.768" timestamp="1588682564523" />
+    <state x="415" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1583770612247">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="415" y="208" key="com.intellij.ide.util.TipDialog/62.0.1304.768@62.0.1304.768" timestamp="1583770612247" />
+    <state x="418" y="277" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1583769582104">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="418" y="277" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/62.0.1304.768@62.0.1304.768" timestamp="1583769582104" />
+    <state x="86" y="9" key="new project wizard" timestamp="1588676375691">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="86" y="9" key="new project wizard/62.0.1304.768@62.0.1304.768" timestamp="1588676375691" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/proiect_individual$MyClassTest.ic" NAME="MyClassTest Coverage Results" MODIFIED="1588678066771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Pachet1.*</FILTER>
+    </SUITE>
+  </component>
+</project>
